@@ -126,7 +126,7 @@ I value **clean architecture, scalability, and developer-first design** — and 
 
 ---
 
-# 📊 Activity Graph (Dark/Light Mode Adaptive)
+# 📊 Activity Graph 
 
 <p align="center">
   <picture>
@@ -153,8 +153,6 @@ I value **clean architecture, scalability, and developer-first design** — and 
 **Open to roles in Full-Stack Engineering, Mobile Development & Blockchain Integrations.**
 
 ---
-
-# 🌀 Dynamic Footer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArhamMinhas&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile views" />

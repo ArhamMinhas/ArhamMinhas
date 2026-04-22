@@ -61,12 +61,12 @@ I value **clean architecture, scalability, and developer-first design** — and 
 
 ### 🎨 Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,angular,js,ts,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,angular,js,ts,html,css,tailwind,bootstrap,dart" />
 </p>
 
-### 🔧 Backend & Databases
+### 🔧 Backend, Languages & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,php,nodejs,express,postgres,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,php,nodejs,express,postgres,mysql,firebase,python,java,cpp" />
 </p>
 
 ### ⚙️ Tools, Cloud, DevOps

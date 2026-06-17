@@ -1,9 +1,9 @@
-```md
 <!-- 
 ==========================
 🌗 Light/Dark Mode Adaptive Header
 ==========================
 -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Arham+Amir;Full+Stack+Software+Engineer;Mobile+App+Developer+%7C+React+Native;Clean+Code+Enthusiast+%26+Problem+Solver">
@@ -13,6 +13,7 @@
 </p>
 
 <!-- CONTACT BADGES -->
+
 <p align="center">
   <a href="mailto:amirarham590@gmail.com">
     <img src="https://img.shields.io/badge/Email-amirarham590%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -31,13 +32,13 @@
 
 A forward-thinking **Full Stack Software Engineer** with strong hands-on experience in:
 
-- **Modern web applications** (Next.js + React + TypeScript)
-- **Mobile app development** (React Native + Firebase + WalletConnect)
-- **Backend API development** (Next.js API Routes, Express, .NET)
-- **Full-stack web engineering** (Angular, React, .NET, Laravel, PostgreSQL)
-- **Database engineering** (PostgreSQL, MySQL, Supabase, Firebase)
-- **Machine Learning** (Python, Pandas, Scikit-Learn)
-- **Blockchain-integrated applications**
+* **Modern web applications** (Next.js + React + TypeScript)
+* **Mobile app development** (React Native + Firebase + WalletConnect)
+* **Backend API development** (Next.js API Routes, Express, .NET)
+* **Full-stack web engineering** (Angular, React, .NET, Laravel, PostgreSQL)
+* **Database engineering** (PostgreSQL, MySQL, Supabase, Firebase)
+* **Machine Learning** (Python, Pandas, Scikit-Learn)
+* **Blockchain-integrated applications**
 
 I value **clean architecture, scalability, and developer-first design** — and I love solving real-world problems through tech.
 
@@ -45,40 +46,43 @@ I value **clean architecture, scalability, and developer-first design** — and 
 
 # 🎯 What I Have Worked On
 
-- 🚕 **EcoRide** — A blockchain-powered ride-sharing mobile application
-- 🌐 Building robust **admin dashboards, APIs & web interfaces**
-- ⚡ Building modern SSR/SSG web applications using Next.js
-- 🔐 Creating secure backend APIs with Next.js API Routes
-- 🗄️ Developing scalable applications with Supabase & PostgreSQL
-- 📱 Enhancing real-time maps & contract-based flows for mobile apps
-- 🤖 ML-powered features for decision-making applications
+* 🚕 **EcoRide** — A blockchain-powered ride-sharing mobile application
+* 🌐 Building robust **admin dashboards, APIs & web interfaces**
+* ⚡ Building modern SSR/SSG web applications using Next.js
+* 🔐 Creating secure backend APIs with Next.js API Routes
+* 🗄️ Developing scalable applications with Supabase & PostgreSQL
+* 📱 Enhancing real-time maps & contract-based flows for mobile apps
+* 🤖 ML-powered features for decision-making applications
 
 ---
 
 # 📚 Currently Learning
 
-- Cloud & DevOps (AWS, Docker, CI/CD)
-- Secure architectures for mobile & web authentication
-- API design best practices & scalable backend microservices
-- Advanced system design for enterprise applications
-- Advanced Supabase architecture & authentication
-- Next.js App Router, Server Components & Edge Functions
+* Cloud & DevOps (AWS, Docker, CI/CD)
+* Secure architectures for mobile & web authentication
+* API design best practices & scalable backend microservices
+* Advanced system design for enterprise applications
+* Advanced Supabase architecture & authentication
+* Next.js App Router, Server Components & Edge Functions
 
 ---
 
 # 🛠 Tech Stack
 
 ### 🎨 Frontend & Mobile
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,angular,js,ts,html,css,tailwind,bootstrap,dart" />
 </p>
 
 ### 🔧 Backend, Languages & Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,laravel,php,nodejs,express,nextjs,postgres,mysql,supabase,firebase,python,java,cpp" />
 </p>
 
 ### ⚙️ Tools, Cloud, DevOps
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma,vscode,visualstudio,linux" />
 </p>
@@ -88,19 +92,22 @@ I value **clean architecture, scalability, and developer-first design** — and 
 # 🚀 Featured Projects
 
 ## 🚕 **EcoRide – Blockchain-Based Ride-Sharing App**
-**Tech:** React Native · Firebase · Polygon · WalletConnect · Google Maps APIs  
+
+**Tech:** React Native · Firebase · Polygon · WalletConnect · Google Maps APIs
 🔗 Repo: **https://github.com/ArhamMinhas/Ecorides**
 
 ---
 
 ## 📊 **Unemployment Analysis (CodeAlpha Internship)**
-**Tech:** Python · Pandas · Matplotlib · Seaborn  
+
+**Tech:** Python · Pandas · Matplotlib · Seaborn
 🔗 Repo: **https://github.com/ArhamMinhas/CodeAlpha_UnemploymentAnalysis**
 
 ---
 
 ## 🚗 **Car Price Prediction (ML Project)**
-**Tech:** Python · Scikit-Learn  
+
+**Tech:** Python · Scikit-Learn
 🔗 Repo: **https://github.com/ArhamMinhas/CodeAlpha_CarPricePrediction**
 
 ---
@@ -155,9 +162,9 @@ I value **clean architecture, scalability, and developer-first design** — and 
 
 # 🤝 Connect With Me
 
-- 📧 Email: **amirarham590@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/muhammad-arham-2943ab289**
-- 🧑‍💻 GitHub: **https://github.com/ArhamMinhas**
+* 📧 Email: **[amirarham590@gmail.com](mailto:amirarham590@gmail.com)**
+* 💼 LinkedIn: **https://www.linkedin.com/in/muhammad-arham-2943ab289**
+* 🧑‍💻 GitHub: **https://github.com/ArhamMinhas**
 
 **Open to roles in Full-Stack Engineering, Mobile Development, Next.js Development, Backend Engineering & Blockchain Integrations.**
 
@@ -171,4 +178,3 @@ I value **clean architecture, scalability, and developer-first design** — and 
   <sub>“Building practical, scalable solutions — one commit at a time.”</sub><br/>
   <sup>Last updated: <strong>August 2026</strong></sup>
 </p>
-```

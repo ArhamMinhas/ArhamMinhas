@@ -1,3 +1,4 @@
+```md
 <!-- 
 ==========================
 🌗 Light/Dark Mode Adaptive Header
@@ -30,8 +31,11 @@
 
 A forward-thinking **Full Stack Software Engineer** with strong hands-on experience in:
 
+- **Modern web applications** (Next.js + React + TypeScript)
 - **Mobile app development** (React Native + Firebase + WalletConnect)
+- **Backend API development** (Next.js API Routes, Express, .NET)
 - **Full-stack web engineering** (Angular, React, .NET, Laravel, PostgreSQL)
+- **Database engineering** (PostgreSQL, MySQL, Supabase, Firebase)
 - **Machine Learning** (Python, Pandas, Scikit-Learn)
 - **Blockchain-integrated applications**
 
@@ -41,9 +45,12 @@ I value **clean architecture, scalability, and developer-first design** — and 
 
 # 🎯 What I Have Worked On
 
-- 🚕 **EcoRide** — A blockchain-powered ride-sharing mobile application  
-- 🌐 Building robust **admin dashboards, APIs & web interfaces**  
-- 📱 Enhancing real-time maps & contract-based flows for mobile apps  
+- 🚕 **EcoRide** — A blockchain-powered ride-sharing mobile application
+- 🌐 Building robust **admin dashboards, APIs & web interfaces**
+- ⚡ Building modern SSR/SSG web applications using Next.js
+- 🔐 Creating secure backend APIs with Next.js API Routes
+- 🗄️ Developing scalable applications with Supabase & PostgreSQL
+- 📱 Enhancing real-time maps & contract-based flows for mobile apps
 - 🤖 ML-powered features for decision-making applications
 
 ---
@@ -51,9 +58,11 @@ I value **clean architecture, scalability, and developer-first design** — and 
 # 📚 Currently Learning
 
 - Cloud & DevOps (AWS, Docker, CI/CD)
-- Secure architectures for mobile & web authentication  
-- API design best practices & scalable backend microservices  
-- Advanced system design for enterprise applications  
+- Secure architectures for mobile & web authentication
+- API design best practices & scalable backend microservices
+- Advanced system design for enterprise applications
+- Advanced Supabase architecture & authentication
+- Next.js App Router, Server Components & Edge Functions
 
 ---
 
@@ -61,12 +70,12 @@ I value **clean architecture, scalability, and developer-first design** — and 
 
 ### 🎨 Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,angular,js,ts,html,css,tailwind,bootstrap,dart" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,angular,js,ts,html,css,tailwind,bootstrap,dart" />
 </p>
 
 ### 🔧 Backend, Languages & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,php,nodejs,express,postgres,mysql,firebase,python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,php,nodejs,express,nextjs,postgres,mysql,supabase,firebase,python,java,cpp" />
 </p>
 
 ### ⚙️ Tools, Cloud, DevOps
@@ -90,7 +99,7 @@ I value **clean architecture, scalability, and developer-first design** — and 
 
 ---
 
-## 🚗 **Car Price Prediction (ML Project)**  
+## 🚗 **Car Price Prediction (ML Project)**
 **Tech:** Python · Scikit-Learn  
 🔗 Repo: **https://github.com/ArhamMinhas/CodeAlpha_CarPricePrediction**
 
@@ -100,11 +109,11 @@ I value **clean architecture, scalability, and developer-first design** — and 
 
 <p align="center">
   <picture>
-    <source 
+    <source
       srcset="https://github-readme-stats.vercel.app/api?username=ArhamMinhas&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
-    <source 
+    <source
       srcset="https://github-readme-stats.vercel.app/api?username=ArhamMinhas&show_icons=true&theme=default&hide_border=true&count_private=true"
       media="(prefers-color-scheme: light)"
     />
@@ -112,11 +121,11 @@ I value **clean architecture, scalability, and developer-first design** — and 
   </picture>
 
   <picture>
-    <source 
+    <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamMinhas&layout=compact&theme=github_dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <source 
+    <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamMinhas&layout=compact&theme=default&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
@@ -126,15 +135,15 @@ I value **clean architecture, scalability, and developer-first design** — and 
 
 ---
 
-# 📊 Activity Graph 
+# 📊 Activity Graph
 
 <p align="center">
   <picture>
-    <source 
+    <source
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArhamMinhas&theme=github-dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <source 
+    <source
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArhamMinhas&theme=github-light&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
@@ -150,7 +159,7 @@ I value **clean architecture, scalability, and developer-first design** — and 
 - 💼 LinkedIn: **https://www.linkedin.com/in/muhammad-arham-2943ab289**
 - 🧑‍💻 GitHub: **https://github.com/ArhamMinhas**
 
-**Open to roles in Full-Stack Engineering, Mobile Development & Blockchain Integrations.**
+**Open to roles in Full-Stack Engineering, Mobile Development, Next.js Development, Backend Engineering & Blockchain Integrations.**
 
 ---
 
@@ -160,5 +169,6 @@ I value **clean architecture, scalability, and developer-first design** — and 
 
 <p align="center">
   <sub>“Building practical, scalable solutions — one commit at a time.”</sub><br/>
-  <sup>Last updated: <strong>December 2025</strong></sup>
+  <sup>Last updated: <strong>August 2026</strong></sup>
 </p>
+```
